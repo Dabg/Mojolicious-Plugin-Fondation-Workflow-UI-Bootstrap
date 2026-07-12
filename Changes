@@ -1,0 +1,4 @@
+Revision history for Mojolicious-Plugin-Fondation-Workflow-UI-Bootstrap
+
+{{$NEXT}}
+    - Initial release: state badge, action buttons, progress bar helpers
