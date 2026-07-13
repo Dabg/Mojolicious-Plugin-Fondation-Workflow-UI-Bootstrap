@@ -7,8 +7,6 @@ package Mojolicious::Plugin::Fondation::Workflow::UI::Bootstrap;
 
 use Mojo::Base 'Mojolicious::Plugin', -signatures;
 
-our $VERSION = '0.01';
-
 sub fondation_meta {
     return {
         dependencies => [
